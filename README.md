@@ -31,12 +31,14 @@ Este é um aplicativo mobile desenvolvido em **React Native** utilizando **Expo*
 
 ## Instale as dependências:
 
-- **npm install**
-- 
+```bash
+npm install
+
 ## Inicie o app:
 
-- **npx expo start**
-- 
+```bash
+npx expo start
+
 ## Execute no dispositivo:
 
 Escaneie o QR Code com o aplicativo do Expo Go no seu celular.
