@@ -32,12 +32,12 @@ Este é um aplicativo mobile desenvolvido em **React Native** utilizando **Expo*
 ## Instale as dependências:
 
    ```bash
-   npm install
+   npm install```
 
 ## Inicie o app:
 
    ```bash
-   npx expo start
+   npx expo start```
 
 ## Execute no dispositivo:
 
