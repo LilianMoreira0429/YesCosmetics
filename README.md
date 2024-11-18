@@ -26,8 +26,7 @@ Este é um aplicativo mobile desenvolvido em **React Native** utilizando **Expo*
 ## Como executar o projeto
 
 1. **Clone o repositório**:
-   ```bash
- `https://github.com/LilianMoreira0429/YesCosmetics.git`
+   ```bash https://github.com/LilianMoreira0429/YesCosmetics.git
 
 ## Instale as dependências:
 
