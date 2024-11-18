@@ -27,15 +27,16 @@ Este é um aplicativo mobile desenvolvido em **React Native** utilizando **Expo*
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+ `https://github.com/LilianMoreira0429/YesCosmetics.git`
 
 ## Instale as dependências:
 
 - **npm install**
+- 
 ## Inicie o app:
 
 - **npx expo start**
+- 
 ## Execute no dispositivo:
 
 Escaneie o QR Code com o aplicativo do Expo Go no seu celular.
