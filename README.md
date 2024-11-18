@@ -56,7 +56,7 @@ Ou use um emulador Android/iOS configurado no seu ambiente de desenvolvimento.
 O arquivo Index.tsx contém a lógica central do aplicativo, incluindo:
 
 - **Estados do React:**
--- id, name, quantity e search para manipular os produtos.
+-- `id, name, quantity e search para manipular os produtos.`
 ## Funções principais:
 - create(): Cadastra novos produtos.
 - update(): Atualiza produtos existentes.
